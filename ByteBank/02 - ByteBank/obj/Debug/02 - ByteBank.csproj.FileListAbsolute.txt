@@ -1,0 +1,7 @@
+D:\ProfileUsers\Windows_7\Documents\development\C#\ByteBank\02 - ByteBank\bin\Debug\02 - ByteBank.exe.config
+D:\ProfileUsers\Windows_7\Documents\development\C#\ByteBank\02 - ByteBank\bin\Debug\02 - ByteBank.exe
+D:\ProfileUsers\Windows_7\Documents\development\C#\ByteBank\02 - ByteBank\bin\Debug\02 - ByteBank.pdb
+D:\ProfileUsers\Windows_7\Documents\development\C#\ByteBank\02 - ByteBank\obj\Debug\02 - ByteBank.csprojResolveAssemblyReference.cache
+D:\ProfileUsers\Windows_7\Documents\development\C#\ByteBank\02 - ByteBank\obj\Debug\02 - ByteBank.csproj.CoreCompileInputs.cache
+D:\ProfileUsers\Windows_7\Documents\development\C#\ByteBank\02 - ByteBank\obj\Debug\02 - ByteBank.exe
+D:\ProfileUsers\Windows_7\Documents\development\C#\ByteBank\02 - ByteBank\obj\Debug\02 - ByteBank.pdb
